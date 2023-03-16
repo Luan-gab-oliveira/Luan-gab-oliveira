@@ -14,10 +14,7 @@
  
   - 💻 Sou fascinado por tecnologia.
   - 🏫 Estudo análise e desenvolvimento de sistemas.
-  - 👨‍💻 Atualmente estou aprendendo: <img align="center" alt="Rosa-Python" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Rafa-Js" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rosa-HTML" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rosa-CSS" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rosa-NodeJs" height="25" width="30" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  - 👨‍💻 Atualmente estou aprendendo: <img align="center" alt="Rosa-Python" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Rafa-Js" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Rosa-HTML" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Rosa-CSS" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Rosa-NodeJs" height="25" width="30" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
 
 
 ##### Onde me encontrar:
