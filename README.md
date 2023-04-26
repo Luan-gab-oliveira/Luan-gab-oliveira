@@ -33,8 +33,7 @@
 
 ## GitHub Analytics
 
- <div>
-  <a href="https://github.com/Luan-gab-oliveira">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luan-gab-oliveira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-gab-oliveira&layout=compact&langs_count=7&theme=react"/>
+<div>
+ <a href="https://github.com/Luan-gab-oliveira"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luan-gab-oliveira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/></a>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-gab-oliveira&layout=compact&langs_count=7&theme=react"/>
 </div>
