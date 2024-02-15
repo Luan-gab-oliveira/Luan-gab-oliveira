@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá, me chamo Luan Gabriel!</h1>
  
-<p>Sou estudante de Análise e desenvolvimento de Sistemas, tenho 21 anos de idade, atualmente trabalho com suporte de infraestrutura(TI) e desenvolvedor NodeJS jr. Sou fascinado por tecnologia e venho buscando novos desafios para me aperfeiçoar mais na área de desenvolvimento.</p>
+<p>Sou estudante de Análise e desenvolvimento de Sistemas, tenho 22 anos de idade, atualmente trabalho com suporte de infraestrutura(TI) e desenvolvedor NodeJS jr. Sou fascinado por tecnologia e venho buscando novos desafios para me aperfeiçoar mais na área de desenvolvimento.</p>
 <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="250em" align="right" alt="Luan Gabriel">
 
 ## Minhas tecnologias:
