@@ -25,18 +25,6 @@ Sou apaixonado por carros e motores, nos momentos livres, gosto de jogar, ler, t
 
 ---
 
-### Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-gabriel-de-oliveira-5188081b3/) 
-
-<p align="left" style="background:blue">
- <a href="https://www.linkedin.com/in/luan-gabriel-de-oliveira-5188081b3/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Luan Oliveira-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
- <a href="mailto:email@dev.luanoliveira@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-email-05122A?style=flat&logo=gmail" alt="email"/></a>
- <a href="https://luan-gab-oliveira.github.io/Portifolio" target="_blank"><img align="center" src="https://img.shields.io/badge/-Portifolio-05122A?style=flat&logo=codepen" alt="portifolio"/></a>
-</p>
-
----
-
 ### Estatísticas do GitHub
 
 <div>
