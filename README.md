@@ -3,8 +3,8 @@
 ### Sobre mim
 
 
-Atualmente, trabalho com suporte de infraestrutura em TI e desenvolvimento de sistemas na Prefeitura de São Francisco do Sul.
-Sou apaixonado por carros e motores, nos momentos livres, gosto de jogar, ler, treinar e mergulhar em atividades que me desafiem.
+Tenho 23 anos de idade, trabalho como Analista de Sistemas no Porto Itapoá.
+Sou apaixonado por carros e motores, nos momentos livres, gosto de jogar, treinar e mergulhar em atividades que me desafiem.
 
 <br>
 <div>
