@@ -1,4 +1,4 @@
-## Olá, me chamo **Luan Gabriel de Oliveira**! 👋
+<h1 align="center">Olá, me chamo Luan Gabriel de Oliveira! 👋</h1>
 
 ### Sobre mim
 
@@ -33,6 +33,6 @@ Sou apaixonado por carros e motores, nos momentos livres, gosto de jogar, treina
 </div>
 
 ---
-<p align="center">
- "A tecnologia é a ferramenta que usamos para moldar um futuro melhor. Vamos criar juntos!"
-</p>
+<div align="center">
+  💡 <em>"A tecnologia é a ferramenta que usamos para moldar um futuro melhor. Vamos criar juntos!"</em>
+</div>
