@@ -3,7 +3,7 @@
 ### Sobre mim
 
 
-Tenho 23 anos de idade, trabalho como Analista de Sistemas no Porto Itapoá.
+Tenho 24 anos de idade, trabalho como Analista de Sistemas no Porto Itapoá.
 Sou apaixonado por carros e motores, nos momentos livres, gosto de jogar, treinar e mergulhar em atividades que me desafiem.
 
 <br>
@@ -15,7 +15,7 @@ Sou apaixonado por carros e motores, nos momentos livres, gosto de jogar, treina
 ---
 
 ### Tecnologias e Ferramentas
-<div>
+<div align="center">
   <a href="https://github.com/Luan-gab-oliveira"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/></a>
   <a href="https://github.com/Luan-gab-oliveira"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/></a>
   <a href="https://github.com/Luan-gab-oliveira"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/></a>
@@ -32,7 +32,7 @@ Sou apaixonado por carros e motores, nos momentos livres, gosto de jogar, treina
 
 ### Onde me encontrar
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/luan-gabriel-de-oliveira-5188081b3/"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
   <a href="mailto:dev.luanoliveira@gmail.com"><img height="40px" src="https://storage.googleapis.com/gweb-workspace-assets/uploads/7uffzv9dk4sn-2ANudyZddMUfBdOX8YWDbe-8da52413e8fe627a74e653f02de3e001-Gmail.svg"/></a>
   <a href="https://luan-gab-oliveira.github.io/Portifolio/"><img height="40px" src="https://luan-gab-oliveira.github.io/Portifolio/images/myavatar.jpg"/></a>
